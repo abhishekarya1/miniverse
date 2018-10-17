@@ -22,5 +22,11 @@ I also love writing code and develop programs that solves various problems I hav
 
 If you can find a mistake anywhere in this GitBook, I would really appreciate the help. You can quickly find any entry you wish to edit by [searching for the topic here](https://github.com/abhishekarya1/miniverse/find/master) and then making the changes.
 
-I also appreciate any [ideas from your side](https://github.com/abhishekarya1/miniverse//issues/new) on how I can improve this further.
+I also appreciate any [ideas from your side](https://github.com/abhishekarya1/miniverse//issues/new) on how I can improve this further
+
+## Thank You
+
+If you're reading this, you're awesome.
+
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)                       [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)                           [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 
